@@ -1,0 +1,11 @@
+{
+  "appCategory": "Tool",
+  "appName": "Synternet",
+  "appSummary": "Decentralized, multi-purpose on-chain streaming oracle for applications and blockchains",
+  "appWebsiteUrl": "https://portal.synternet.com/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/synternet_com",
+    "github": "https://github.com/Synternet",
+    "discord": "https://discord.gg/Ze7Kswye8B"
+  }
+}
